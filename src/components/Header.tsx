@@ -6,7 +6,7 @@ const Header: FC = () => {
     <header className=" container m-auto flex items-center justify-between px-6 py-4 bg-white ">
       {/* Logo */}
       <div className="flex items-center space-x-2">
-  <img src="/images/logo.png" alt="Logo" className="h-23 w-26" />
+  <img src="/images/logo.png" alt="Portfolio Logo" className="h-23 w-26" />
 
 </div>
 
